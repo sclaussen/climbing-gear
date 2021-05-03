@@ -25,8 +25,7 @@ Climbing gym gear plus:
   - [Shane - Black Diamond ATC Guide (ideal for multi-pitch belaying)](https://www.amazon.com/Black-Diamond-Atc-Guide-Rappel-ONESIZE/dp/B07KXZ1N28/ref=sr_1_3?dchild=1&keywords=atc+guide&qid=1620062616&sr=8-3)
   - [Zeenat/Caden - Black Diamond ATC-Xp](https://www.amazon.com/Black-Diamond-ATC-XP-Belay-Device/dp/B019NUN2NY/ref=sr_1_5?dchild=1&keywords=atc&qid=1620062654&sr=8-5)
   - Carabiner
-    - [Shane - DMM Phantom HMS Screw Gate](https://www.amazon.com/gp/product/B07MXR2DLM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-    - [Used for Years - Black Diamond Pearlock Screwgate](https://www.amazon.com/Black-Diamond-Equipment-Screwgate-Carabiner/dp/B08R5LH4WM/ref=sr_1_19?dchild=1&keywords=Black+Diamond+Keylock+Mini+Pearabiner&qid=1620062934&sr=8-19)
+    - [Shane - DMM Phantom HMS Screw Gate](https://www.amazon.com/gp/product/B07MXR2DLM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) or [Black Diamond Pearlock Screwgate](https://www.amazon.com/Black-Diamond-Equipment-Screwgate-Carabiner/dp/B08R5LH4WM/ref=sr_1_19?dchild=1&keywords=Black+Diamond+Keylock+Mini+Pearabiner&qid=1620062934&sr=8-19)
 - Anchor System and Carabiner (x2)
   - If buying for 2+ people, if possible, I recommend two different color sets, one color set per person (to enable quick differentiation and thus added safety during unclipping when everyone's connected in at a belay station)
   - [Shane/Zeenat/Caden - Metolius Personal Anchor System (PAS)](https://www.amazon.com/Metolius-Personal-Anchor-System-Yellow/dp/B005DQ2P4U/ref=sr_1_1_sspa?dchild=1&keywords=petzl+personal+anchor+system&qid=1620062052&sr=8-1-spons&psc=1&smid=A2EG6QEDZDPFVD&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExNENUSFlVMVlGV0IyJmVuY3J5cHRlZElkPUEwNjk4MzEySk5CUFFCSkVFU1RNJmVuY3J5cHRlZEFkSWQ9QTAzMzIxMDkzU1NVRkxWREFFS0RSJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
@@ -49,24 +48,22 @@ Climbing gym gear plus:
 There are a few options for setting up a top rope.
 
 - Cordalette and Carabiners
-  - Useful if you ar using a tree, or a combination of three cams/nuts
-  - [Shane - ~7 meters of 7mm cordalette]
+  - Likely the most versatile, useful if you are using trees and/or cams/nuts, or in bolted situations
+  - [~7 meters of 7mm cordalette](https://www.amazon.com/Sterling-Rope-Cordelettes/dp/B07BRLXHTK)
   - Carabiners
-    - [Shane - Black Diamond Vapor Lock](https://www.amazon.com/Black-Diamond-Vapor-Screwgate-Carabiner/dp/B019NUOAGC/ref=sr_1_5?dchild=1&keywords=vapor+lock+carabiner&qid=1620062354&sr=8-5) x2
-    - [Shane - Black Diamond Rocklock Screwgate](https://www.amazon.com/Black-Diamond-Rocklock-Screwgate-Carabiner/dp/B081BB44F8/ref=sr_1_3?dchild=1&keywords=ROCKLOCK+SCREWGATE+CARABINER&qid=1620071043&s=sporting-goods&sr=1-3) x2
-
+    - [Black Diamond Vapor Lock](https://www.amazon.com/Black-Diamond-Vapor-Screwgate-Carabiner/dp/B019NUOAGC/ref=sr_1_5?dchild=1&keywords=vapor+lock+carabiner&qid=1620062354&sr=8-5) x2
+    - [Black Diamond Rocklock Screwgate](https://www.amazon.com/Black-Diamond-Rocklock-Screwgate-Carabiner/dp/B081BB44F8/ref=sr_1_3?dchild=1&keywords=ROCKLOCK+SCREWGATE+CARABINER&qid=1620071043&s=sporting-goods&sr=1-3) x2
 - Sling
   - Useful in a bolted situation
-  - [Shane - Mammut Contact Sling Dyneema 8.0 - 120cm](https://www.amazon.com/Mammut-Contact-Sling-mm-60-2120-00601-3000-60/dp/B075T4LQC3/ref=sr_1_2?dchild=1&keywords=Mammut+Contact+Sling+Dyneema+8.0&qid=1620068709&sr=8-2) x2
+  - [Mammut Contact Sling Dyneema 8.0 - 120cm](https://www.amazon.com/Mammut-Contact-Sling-mm-60-2120-00601-3000-60/dp/B075T4LQC3/ref=sr_1_2?dchild=1&keywords=Mammut+Contact+Sling+Dyneema+8.0&qid=1620068709&sr=8-2) x2
   - Carabiners
-    - [Shane - Black Diamond Rocklock Screwgate](https://www.amazon.com/Black-Diamond-Rocklock-Screwgate-Carabiner/dp/B081BB44F8/ref=sr_1_3?dchild=1&keywords=ROCKLOCK+SCREWGATE+CARABINER&qid=1620071043&s=sporting-goods&sr=1-3) x2
-
+    - [Black Diamond Rocklock Screwgate](https://www.amazon.com/Black-Diamond-Rocklock-Screwgate-Carabiner/dp/B081BB44F8/ref=sr_1_3?dchild=1&keywords=ROCKLOCK+SCREWGATE+CARABINER&qid=1620071043&s=sporting-goods&sr=1-3) x2
 - Nylon Webbing
   - Useful if you're slinging a boulder and/or a tree
-  - [Shane - 15 feet of 1" Bluewater Nylon Webbing](https://www.rei.com/product/737298/bluewater-1-climb-spec-tubular-webbing) x2
-  - [Shane - 30 feet of 1" Bluewater Nylon Webbing](https://www.rei.com/product/737298/bluewater-1-climb-spec-tubular-webbing) x2
+  - [15 feet of 1" Bluewater Nylon Webbing](https://www.rei.com/product/737298/bluewater-1-climb-spec-tubular-webbing) x2
+  - [30 feet of 1" Bluewater Nylon Webbing](https://www.rei.com/product/737298/bluewater-1-climb-spec-tubular-webbing) x2
   - Carabiners
-    - [Shane - Black Diamond Rocklock Screwgate](https://www.amazon.com/Black-Diamond-Rocklock-Screwgate-Carabiner/dp/B081BB44F8/ref=sr_1_3?dchild=1&keywords=ROCKLOCK+SCREWGATE+CARABINER&qid=1620071043&s=sporting-goods&sr=1-3) x2
+    - [Black Diamond Rocklock Screwgate](https://www.amazon.com/Black-Diamond-Rocklock-Screwgate-Carabiner/dp/B081BB44F8/ref=sr_1_3?dchild=1&keywords=ROCKLOCK+SCREWGATE+CARABINER&qid=1620071043&s=sporting-goods&sr=1-3) x2
 
 
 
@@ -114,7 +111,7 @@ Follower gear plus:
   - DMM Revolver Sling Protectors
     - [Petzl L String](https://www.amazon.com/gp/product/B07T7ZH65G/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - Cordalettes and Carabiners (x2)
-  - [~7 meters of 7mm cordalette]
+  - [~7 meters of 7mm cordalette](https://www.amazon.com/Sterling-Rope-Cordelettes/dp/B07BRLXHTK)
   - Carabiners
     - [Black Diamond Vapor Lock](https://www.amazon.com/Black-Diamond-Vapor-Screwgate-Carabiner/dp/B019NUOAGC/ref=sr_1_5?dchild=1&keywords=vapor+lock+carabiner&qid=1620062354&sr=8-5) x2
 - Ascenders
