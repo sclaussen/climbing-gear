@@ -1,4 +1,4 @@
-# Gym Climbing
+# Gym gear
 
 - Harness
 - Climbing Shoes
@@ -7,14 +7,9 @@
 
 
 
-# Outside Top Roping & Rapelling
+# Outside gear
 
-- Harness
-- Climbing Shoes
-- Chalk Bag
-- Chalk
-
-Plus:
+Climbing gym gear list plus:
 - Anchor System (x2)
 - Belay/Rappel Device / Carabiner
 - Helmut
@@ -23,23 +18,9 @@ Plus:
 
 
 
-# Trad Follower
+# Follower gear
 
-There's a lot of personal preference here, but this is our follower
-gear set...
-
-- Harness
-- Climbing Shoes
-- Chalk Bag
-- Chalk
-
-- Anchor System (x2) (x1 if route has no rappels)
-- Belay/Rappel Device
-- Helmut
-- Autoblock / Carabiner
-- Crack Gloves
-
-Plus:
+Outside gear list plus:
 - Climbing pack
 - Utility Carabiners
 - Nut Tool
@@ -48,24 +29,9 @@ Plus:
 
 
 
-# Trad Leader
+# Leader gear
 
-- Harness
-- Climbing Shoes
-- Chalk Bag
-- Chalk
-- Anchor System (x2) (x1 if route has no rappels)
-- Belay/Rappel Device
-- Helmut
-- Autoblock / Carabiner
-- Crack Gloves
-
-- Climbing pack
-- Utility Carabiners
-- Nut Tool
-- Bail Gear
-
-Plus:
+Follower gear list plus:
 - Cams / Carabiners (x24)
 - Nuts / Carabiners
 - Slings / Carabiners (x12)
