@@ -45,6 +45,32 @@ Climbing gym gear plus:
 
 
 
+# Outside Top Rope Setup gear
+
+There are a few options for setting up a top rope.
+
+- Cordalette and Carabiners
+  - Useful if you ar using a tree, or a combination of three cams/nuts
+  - [Shane - ~7 meters of 7mm cordalette]
+  - Carabiners
+    - [Shane - Black Diamond Vapor Lock](https://www.amazon.com/Black-Diamond-Vapor-Screwgate-Carabiner/dp/B019NUOAGC/ref=sr_1_5?dchild=1&keywords=vapor+lock+carabiner&qid=1620062354&sr=8-5) x2
+    - [Shane - Black Diamond Rocklock Screwgate](https://www.amazon.com/Black-Diamond-Rocklock-Screwgate-Carabiner/dp/B081BB44F8/ref=sr_1_3?dchild=1&keywords=ROCKLOCK+SCREWGATE+CARABINER&qid=1620071043&s=sporting-goods&sr=1-3) x2
+
+- Sling
+  - Useful in a bolted situation
+  - [Shane - Mammut Contact Sling Dyneema 8.0 - 120cm](https://www.amazon.com/Mammut-Contact-Sling-mm-60-2120-00601-3000-60/dp/B075T4LQC3/ref=sr_1_2?dchild=1&keywords=Mammut+Contact+Sling+Dyneema+8.0&qid=1620068709&sr=8-2) x2
+  - Carabiners
+    - [Shane - Black Diamond Rocklock Screwgate](https://www.amazon.com/Black-Diamond-Rocklock-Screwgate-Carabiner/dp/B081BB44F8/ref=sr_1_3?dchild=1&keywords=ROCKLOCK+SCREWGATE+CARABINER&qid=1620071043&s=sporting-goods&sr=1-3) x2
+
+- Nylon Webbing
+  - Useful if you're slinging a boulder and/or a tree
+  - [Shane - 15 feet of 1" Bluewater Nylon Webbing](https://www.rei.com/product/737298/bluewater-1-climb-spec-tubular-webbing) x2
+  - [Shane - 30 feet of 1" Bluewater Nylon Webbing](https://www.rei.com/product/737298/bluewater-1-climb-spec-tubular-webbing) x2
+  - Carabiners
+    - [Shane - Black Diamond Rocklock Screwgate](https://www.amazon.com/Black-Diamond-Rocklock-Screwgate-Carabiner/dp/B081BB44F8/ref=sr_1_3?dchild=1&keywords=ROCKLOCK+SCREWGATE+CARABINER&qid=1620071043&s=sporting-goods&sr=1-3) x2
+
+
+
 # Follower gear
 
 Outside gear plus:
@@ -55,11 +81,11 @@ Outside gear plus:
 - Nut Tool
   - [Shane/Zeenat - Metolius Torque Nut Tool](https://www.amazon.com/Metolius-Torque-Nut-Tool-Size/dp/B004GYCOGY/ref=sr_1_1_sspa?dchild=1&keywords=nut+tool&qid=1620067969&sr=8-1-spons&psc=1&smid=A2EG6QEDZDPFVD&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMlpBNk4xTkMxQkVKJmVuY3J5cHRlZElkPUEwOTU3NzM5M0ZaWFM5QVZLR1JHNSZlbmNyeXB0ZWRBZElkPUEwMzM0MTI1WUtOOFpZRFFJT1VFJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 - Bail Gear
-  - [Shane/Zeenat - Petzl Am'D Screwgate Carabiner]
+  - [Shane/Zeenat - Petzl Am'D Screwgate Carabiner](https://www.amazon.com/Petzl-AmD-Lightweight-Asymmetric-Carabiner/dp/B01ANZF23Q)
   - [Shane/Zeenat - Petzl Go Steel Screw Link (25kn)](https://www.amazon.com/PETZL-GO-screw-link-7mm/dp/B000T2BTF4/ref=sr_1_2?dchild=1&keywords=Petzl+Oval+Screw-Links&qid=1620068139&sr=8-2)
   - [Shane/Zeenat - Omega Pacific Rappel Ring (20kn)](https://www.amazon.com/Omega-Pacific-RAPRNG-Rap-Ring/dp/B000I6THKK/ref=sr_1_3?dchild=1&keywords=Omega+Pacific+Rappel+Ring&qid=1620068237&sr=8-3)
   - [Shane/Zeenat - Petzl Spatha Knife](https://www.amazon.com/PETZL-Spatha-Knife-Carabiner-Climbers/dp/B00GCI80JC/ref=sr_1_5?dchild=1&keywords=petzl+knife&qid=1620068361&s=sporting-goods&sr=1-5)
-  - [Shane/Zeenat - x" of xmm runner (tied via water knot)]
+  - [Shane/Zeenat - 2' of 5/8" nylon webbing (tied via water knot)](https://www.rei.com/product/610111/bluewater-58-climb-spec-tubular-webbing) x2
 
 
 
@@ -70,7 +96,7 @@ Follower gear plus:
     - [Shane - Black Diamond Camelot C4 Ultralights](https://www.amazon.com/Black-Diamond-Camalot-0-4-Gray/dp/B07KWDSZCD/ref=sr_1_1?dchild=1&keywords=camelot+c4&qid=1620068437&s=sporting-goods&sr=1-1)
     - [Shane - Black Diamond C3s, X4s, and Z4s](https://www.amazon.com/Black-Diamond-Camalot-Z4-0-5/dp/B081BC96ND/ref=sr_1_1?dchild=1&keywords=camelot+z4&qid=1620068487&sr=8-1)
     - [Shane - Metolius Mastercams](https://www.amazon.com/Metolius-Ultralight-Master-Cam-Set/dp/B07QYCKHTC/ref=sr_1_2?dchild=1&keywords=metolius+mastercam&qid=1620068501&sr=8-2)
-    - [Shane - Fixe]
+    - [Shane - Fixe](https://www.backcountrygear.com/alien-revolution-double-sling.html?gclid=Cj0KCQjwvr6EBhDOARIsAPpqUPF0E7K7ypXMGWJaalr6x70OpLryQmSDBmg3fe4TcQByAKV4OEunNx8aAt65EALw_wcB)
     - Carabiners
       - [Shane - Black Diamond LiteWire x24](https://www.amazon.com/Black-Diamond-Litewire-Carabiner/dp/B081BB53KG)
 - Nuts and Carabiner
